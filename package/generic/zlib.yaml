@@ -79,4 +79,5 @@ releases: [
   pkgs:generic/zlib@1.2.10: zlib-1.2.10.tar.gz,
   pkgs:generic/zlib@1.2.11: zlib-1.2.11.tar.gz,
   pkgs:generic/zlib@1.2.12: zlib-1.2.12.tar.gz
+  pkgs:generic/zlib@1.2.13: zlib-1.2.13.tar.gz
 ]
