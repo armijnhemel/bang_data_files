@@ -1,0 +1,13 @@
+---
+package: wget2
+website: https://ftp.gnu.org/gnu/wget/
+packageurl: pkg:generic/wget2
+cpe: cpe:/a:gnu:wget2:-
+cpe23: cpe:2.3:a:gnu:wget2:-:*:*:*:*:*:*:*
+
+# releases, keep this sorted!
+releases: [
+  pkgs:generic/wget2@1.99.2: wget2-1.99.2.tar.gz,
+  pkgs:generic/wget2@2.0.0: wget2-2.0.0.tar.gz,
+  pkgs:generic/wget2@2.0.1: wget2-2.0.1.tar.gz,
+]
