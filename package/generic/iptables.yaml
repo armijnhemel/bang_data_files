@@ -4,6 +4,7 @@ website: https://www.netfilter.org/pub/iptables/
 packageurl: pkg:generic/iptables
 cpe: cpe:/a:netfilter:iptables:-
 cpe23: cpe:2.3:a:netfilter:iptables:-:*:*:*:*:*:*:*
+notes: does not include 'broken' versions
 
 # releases, keep this sorted!
 releases: [
