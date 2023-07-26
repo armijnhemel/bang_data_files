@@ -4,6 +4,7 @@ website: https://download.samba.org/pub/samba/stable/
 packageurl: pkg:generic/samba
 cpe: cpe:/a:samba:samba:-
 cpe23: cpe:2.3:a:samba:samba:-:*:*:*:*:*:*:*
+notes: does not include old versions from https://download.samba.org/pub/samba/old-versions/
 
 # releases, keep this sorted!
 releases: [
