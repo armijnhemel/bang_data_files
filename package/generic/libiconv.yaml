@@ -1,0 +1,24 @@
+---
+package: libiconv
+website: https://ftp.gnu.org/gnu/libiconv/
+packageurl: pkg:generic/libiconv
+cpe: cpe:/a:gnu:libiconv:-
+cpe23: cpe:2.3:a:gnu:libiconv:-:*:*:*:*:*:*:*
+
+# releases, keep this sorted!
+releases: [
+  pkg:generic/libiconv@1.7: libiconv-1.7.tar.gz,
+  pkg:generic/libiconv@1.8: libiconv-1.8.tar.gz,
+  pkg:generic/libiconv@1.9.1: libiconv-1.9.1.tar.gz,
+  pkg:generic/libiconv@1.9.2: libiconv-1.9.2.tar.gz,
+  pkg:generic/libiconv@1.10: libiconv-1.10.tar.gz,
+  pkg:generic/libiconv@1.11: libiconv-1.11.tar.gz,
+  pkg:generic/libiconv@1.11.1: libiconv-1.11.1.tar.gz,
+  pkg:generic/libiconv@1.12: libiconv-1.12.tar.gz,
+  pkg:generic/libiconv@1.13: libiconv-1.13.tar.gz,
+  pkg:generic/libiconv@1.13.1: libiconv-1.13.1.tar.gz,
+  pkg:generic/libiconv@1.14: libiconv-1.14.tar.gz,
+  pkg:generic/libiconv@1.15: libiconv-1.15.tar.gz,
+  pkg:generic/libiconv@1.16: libiconv-1.16.tar.gz,
+  pkg:generic/libiconv@1.17: libiconv-1.17.tar.gz,
+]
