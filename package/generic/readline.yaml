@@ -1,0 +1,46 @@
+---
+package: readline
+website: https://ftp.gnu.org/gnu/readline/
+packageurl: pkg:generic/readline
+cpe: cpe:/a:gnu:readline:-
+cpe23: cpe:2.3:a:gnu:readline:-:*:*:*:*:*:*:*
+
+# releases, keep this sorted!
+releases: [
+  pkg:generic/readline@2.0: readline-2.0.tar.gz,
+  pkg:generic/readline@2.1: readline-2.1.tar.gz,
+  pkg:generic/readline@2.2.1: readline-2.2.1.tar.gz,
+  pkg:generic/readline@2.2: readline-2.2.tar.gz,
+  pkg:generic/readline@4.0: readline-4.0.tar.gz,
+  pkg:generic/readline@4.1: readline-4.1.tar.gz,
+  pkg:generic/readline@4.2: readline-4.2.tar.gz,
+  pkg:generic/readline@4.2a: readline-4.2a.tar.gz,
+  pkg:generic/readline@4.3: readline-4.3.tar.gz,
+  pkg:generic/readline@5.0: readline-5.0.tar.gz,
+  pkg:generic/readline@5.1: readline-5.1.tar.gz,
+  pkg:generic/readline@5.2: readline-5.2.tar.gz,
+  pkg:generic/readline@6.0: readline-6.0.tar.gz,
+  pkg:generic/readline@6.1: readline-6.1.tar.gz,
+  pkg:generic/readline@6.2: readline-6.2.tar.gz,
+  pkg:generic/readline@6.3: readline-6.3.tar.gz,
+  pkg:generic/readline@7.0: readline-7.0.tar.gz,
+  pkg:generic/readline@8.0-alpha: readline-8.0-alpha.tar.gz,
+  pkg:generic/readline@8.0-beta: readline-8.0-beta.tar.gz,
+  pkg:generic/readline@8.0-beta2: readline-8.0-beta2.tar.gz,
+  pkg:generic/readline@8.0-rc1: readline-8.0-rc1.tar.gz,
+  pkg:generic/readline@8.0: readline-8.0.tar.gz,
+  pkg:generic/readline@8.1-alpha: readline-8.1-alpha.tar.gz,
+  pkg:generic/readline@8.1-beta: readline-8.1-beta.tar.gz,
+  pkg:generic/readline@8.1-rc1: readline-8.1-rc1.tar.gz,
+  pkg:generic/readline@8.1-rc2: readline-8.1-rc2.tar.gz,
+  pkg:generic/readline@8.1-rc3: readline-8.1-rc3.tar.gz,
+  pkg:generic/readline@8.1.2: readline-8.1.2.tar.gz,
+  pkg:generic/readline@8.1: readline-8.1.tar.gz,
+  pkg:generic/readline@8.2-alpha: readline-8.2-alpha.tar.gz,
+  pkg:generic/readline@8.2-beta: readline-8.2-beta.tar.gz,
+  pkg:generic/readline@8.2-rc1: readline-8.2-rc1.tar.gz,
+  pkg:generic/readline@8.2-rc2: readline-8.2-rc2.tar.gz,
+  pkg:generic/readline@8.2-rc3: readline-8.2-rc3.tar.gz,
+  pkg:generic/readline@8.2-rc4: readline-8.2-rc4.tar.gz,
+  pkg:generic/readline@8.2: readline-8.2.tar.gz,
+]
